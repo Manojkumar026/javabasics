@@ -10,12 +10,6 @@ public class WorkSheetExamples {
 			System.out.println( "Age is less than 65 ");
 
 		}
-			int x=1,total=1;
-			while(x <=10)
-			{
-				total +=x;
-				++x;
-			}
 		}
 		}
 
