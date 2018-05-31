@@ -1,9 +1,13 @@
 package com.basics;
 
-import com.examples.examples;
 
-public class examples {
-	 public static void main(String [] args) 
+
+
+	 public class examples {
+
+	
+
+	public static void main(String [] args) 
 	    {
 	        examples s = new examples();
 	        s.start();
